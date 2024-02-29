@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Sach Pizza",
+        "city": "Prishtine, 10000",
+        "address": "Rr. Rexhep Luci",
+        "phoneNo":"044896896",
+        "id": 1001,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 21.161289,
+            "latitude": 42.662220
+        },
+        "imageName": "sachpizza"
+    },
+    {
+           "name": "Proper Pizza Prishtine",
+           "city": "Prishtine, 10000",
+           "address": "Rr. Robert Doll",
+           "phoneNo":"044131310",
+           "id": 1002,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.154980,
+               "latitude": 42.656390
+           },
+           "imageName": "properpizza"
+    },
+    {
+           "name": "Pizzeria Napoli Vero",
+           "city": "Prishtine, 10000",
+           "address": "Rr. Luan Haradinaj",
+           "phoneNo":"044194710",
+           "id": 1003,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.159480,
+               "latitude": 42.661510
+           },
+           "imageName": "napolivero"
+    },
+    {
+           "name": "Domino's Pizza 03",
+           "city": "Prishtine, 10000",
+           "address": "M2",
+           "phoneNo":"038711711",
+           "id": 1004,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.151818,
+               "latitude": 42.649673
+           },
+           "imageName": "dominospizza"
+    },
+    {
+           "name": "Napoli Pizza",
+           "city": "Prishtine, 10000",
+           "address": "Rr. Xheladin Rekaliu",
+           "phoneNo":"044785411",
+           "id": 1005,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.167176,
+               "latitude": 42.653281
+           },
+           "imageName": "pizzanapoli"
+    },
+    {
+           "name": "Domino's Pizza 02",
+           "city": "Prishtine, 10000",
+           "address": "Rruga B",
+           "phoneNo":"038711711",
+           "id": 1006,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.173418,
+               "latitude": 42.649835
+           },
+           "imageName": "dominospizza"
+    },
+    {
+           "name": "Famous Famiglia",
+           "city": "Prishtine, 10000",
+           "address": "Rr. Fehmi Agani",
+           "phoneNo":"038727272",
+           "id": 1007,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.159831,
+               "latitude": 42.664294
+           },
+           "imageName": "famousfamiglia"
+    },
+    {
+           "name": "Domino's Pizza 01",
+           "city": "Prishtine, 10000",
+           "address": "Rr. Tirana",
+           "phoneNo":"038711711",
+           "id": 1008,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.152304,
+               "latitude": 42.659706
+           },
+           "imageName": "dominospizza"
+    },
+    {
+           "name": "Ginnis Pizzeria",
+           "city": "Prishtine, 10000",
+           "address": "M9",
+           "phoneNo":"044360094",
+           "id": 1009,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.141961,
+               "latitude": 42.651193
+           },
+           "imageName": "ginnispizzeria"
+    },
+    {
+           "name": "Pizza Crust",
+           "city": "Prishtine, 10000",
+           "address": "Rr. Enver Maloku",
+           "phoneNo":"045557575",
+           "id": 1010,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.171784,
+               "latitude": 42.652437
+           },
+           "imageName": "pizzacrust"
+    },
+    {
+           "name": "Domino's Pizza Ferizaj",
+           "city": "Ferizaj, 70000",
+           "address": "Rr. Ahmet Kaqiku",
+           "phoneNo":"038711711",
+           "id": 1011,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.154144,
+               "latitude": 42.369098
+           },
+           "imageName": "dominospizza"
+    },
+    {
+           "name": "Balkan Pizza",
+           "city": "Ferizaj, 70000",
+           "address": "Rr. Deshmoret E Kombit",
+           "phoneNo":"044631177",
+           "id": 1012,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.150145,
+               "latitude": 42.370118
+           },
+           "imageName": "balkanpizza"
+    },
+    {
+           "name": "Pizzeria Syri",
+           "city": "Ferizaj, 70000",
+           "address": "Rr. Deshmoret E Kombit",
+           "phoneNo":"049501078",
+           "id": 1013,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.150145,
+               "latitude": 42.370118
+           },
+           "imageName": "pizzeriasyri"
+    },
+    {
+           "name": "Il Gusto Ristorante",
+           "city": "Ferizaj, 70000",
+           "address": "Rr. Driton Islami",
+           "phoneNo":"049206000",
+           "id": 1014,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.148126,
+               "latitude": 42.375546
+           },
+           "imageName": "ilgusto"
+    },
+    {
+           "name": "Prima Pizza",
+           "city": "Peje, 30000",
+           "address": "Rr. Adem Jashari",
+           "phoneNo":"045902444",
+           "id": 1015,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 20.287993,
+               "latitude": 42.661465
+           },
+           "imageName": "primapizza"
+    },
+    {
+           "name": "Proper Pizza Ferizaj",
+           "city": "Ferizaj, 70000",
+           "address": "Rr. Deshmoret e Kombit",
+           "phoneNo":"045906333",
+           "id": 1016,
+           "isFavorite": false,
+           "coordinates": {
+               "longitude": 21.150145,
+               "latitude": 42.370118
+           },
+           "imageName": "properpizza"
+    }
+]
